@@ -37,3 +37,10 @@ img[src$="swipe.svg"],
 img[src$="/assets/img/swipe.svg"] {
   display: none !important;
 }
+
+/* Make the author picture on the home/about page larger */
+.page--about .author__picture,
+.page--about .author__picture img {
+  width: 8rem;
+  height: 8rem;
+}
