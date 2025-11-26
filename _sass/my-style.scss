@@ -22,3 +22,13 @@
   border-color: rgba(255, 255, 255, 0.6);
 }
 
+// Use a different sidebar background image on larger screens (desktop/tablet).
+// Mobile keeps the default accent_image from `_config.yml`.
+@media (min-width: 768px) {
+  .sidebar {
+    background-image: url("/assets/img/tng100_web.png") !important;
+    background-size: cover;
+    background-position: center;
+  }
+}
+
