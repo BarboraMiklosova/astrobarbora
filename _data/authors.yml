@@ -1,6 +1,6 @@
 author1:
   name:              Barbora Miklošová
-  email:             your.email@example.com
+  email:             barbora@physics.muni.cz
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,8 +26,9 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
+    email:           barbora@physics.muni.cz
     github:          barboramiklosova
-    # email:           <mail@domain.tld>
+    linkedin:        Barbora Miklošová
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>

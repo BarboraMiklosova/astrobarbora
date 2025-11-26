@@ -54,6 +54,8 @@ menu:
     url:               /about/
   - title:             CV
     url:               /cv/
+  - title:             AGN Feedback
+    url:               /agn-feedback/
   - title:             Posts
     url:               /posts/
 
