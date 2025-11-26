@@ -50,12 +50,10 @@ author:
 menu:
   - title:             Home
     url:               /
-  - title:             About
-    url:               /about/
   - title:             CV
     url:               /cv/
-  - title:             AGN Feedback
-    url:               /agn-feedback/
+  - title:             Research
+    url:               /research/
   - title:             Posts
     url:               /posts/
 

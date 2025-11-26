@@ -31,3 +31,9 @@
     background-position: center;
   }
 }
+
+/* Hide the swipe hint icon used for the mobile drawer */
+img[src$="swipe.svg"],
+img[src$="/assets/img/swipe.svg"] {
+  display: none !important;
+}

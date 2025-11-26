@@ -1,8 +1,7 @@
 ---
 layout: page
-title: CV
-description: >
-  Curriculum vitae of Barbora Miklošová, master’s student in astrophysics.
+title: Curriculum Vitae
+
 permalink: /cv/
 ---
 
@@ -13,7 +12,7 @@ permalink: /cv/
 - **Master's (Mgr.) in Astrophysics** — Masaryk University, Faculty of Science,  
   Department of Theoretical Physics and Astrophysics, Brno, Czech Republic  
   *September 2023 – present*  
-  Thesis (tentative): *Exploring Shock Structures in the Cosmic Web*  
+  Thesis: *Exploring Shock Structures in the Cosmic Web*  
   Supervisors: Congyao Zhang, PhD; Mgr. Tomáš Plšek  
   Expected graduation in May 2027.
 
@@ -24,13 +23,6 @@ permalink: /cv/
   Supervisor: Mgr. Tomáš Plšek  
   Graduated *summa cum laude*.
 
-## Research interests
-
-- Shock structures in the cosmic web  
-- Radio-mechanical AGN feedback in giant elliptical galaxies  
-- Galaxy evolution and environment  
-- X-ray data analysis and hot gas in galaxies and clusters  
-- Scientific Python, data analysis, and visualization  
 
 ## Research experience
 
@@ -50,10 +42,7 @@ permalink: /cv/
 
 ## Languages
 
-- **Slovak:** native  
-- **English:** advanced  
-- **Czech:** fluent  
-- **Spanish:** beginner  
+- **Slovak:** native, **English:** advanced, **Czech:** fluent, **Spanish:** beginner  
 
 ## Outreach
 
@@ -98,6 +87,13 @@ permalink: /cv/
   Achieved Bronze and Silver Standards by engaging in sustained skills
   training, volunteer tutoring, Red Cross community involvement, and completing
   team-based expeditions and personal fitness goals.
+
+
+## Hobbies
+- Calligraphy 
+- Books 
+- Digital art 
+- Photography
 
 ## Contact
 
