@@ -38,9 +38,9 @@ img[src$="/assets/img/swipe.svg"] {
   display: none !important;
 }
 
-/* Make the author picture on the home/about page larger */
-.page--about .author__picture,
-.page--about .author__picture img {
-  width: 8rem;
-  height: 8rem;
+/* Make Barbora's author picture larger */
+img[src$="/assets/img/barbora.png"] {
+  width: 9rem !important;
+  height: 9rem !important;
+  border-radius: 50%;
 }
