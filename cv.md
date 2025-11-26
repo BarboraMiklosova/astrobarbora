@@ -94,8 +94,3 @@ permalink: /cv/
 - Books 
 - Digital art 
 - Photography
-
-## Contact
-
-For a full, up-to-date PDF version of this CV, or for further details,
-you can contact me by email or via the links in the sidebar.
