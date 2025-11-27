@@ -19,8 +19,10 @@ In an active galactic nucleus (AGN), found in a giant elliptical galaxy (gE), th
 #### X-ray cavities
 X-ray cavities, formed by AGN jets displacing hot gas, appear as regions of **reduced** X-ray emission. From their volumes and the thermodynamic properties of the X-ray–emitting gas, we can derive the jet power $P_{\text{jet}}$ that inflated them, which allows us to **quantify the AGN feedback history** if multiple generations are present.
 
-Jet power $P_{\text{jet}}$ was calculated as  
-$$ P_{\text{jet}} = \dfrac{E_{\text{inj}}}{t_{\text{age}}} = \dfrac{1}{t_{\text{age}}} E_{\text{mea}} \left( \dfrac{p_{0}}{p(d)} \right)^{1 - 1/\gamma}$$,
+Jet power $$P_{\text{jet}}$$ was calculated as  
+$$ 
+P_{\text{jet}} = \dfrac{E_{\text{inj}}}{t_{\text{age}}} = \dfrac{1}{t_{\text{age}}} E_{\text{mea}} \left( \dfrac{p_{0}}{p(d)} \right)^{1 - 1/\gamma}
+$$,
 
 where $t_{\text{age}}$ is the cavity age, $E_{\text{mea}}$ is the measured energy approximated by $4\,p(d)\,V$, $V$ is the cavity volume, $p_{0}$ is the central pressure, and $p(d)$ is the pressure at the cavity’s distance $d$. The adiabatic index is $\gamma = 4/3$.
 
