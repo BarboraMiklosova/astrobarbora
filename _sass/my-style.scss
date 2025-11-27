@@ -26,7 +26,6 @@
 // Desktop uses the default `accent_image` from `_config.yml` (tng100_web.png).
 @media (max-width: 768px) {
   .sidebar {
-    position: relative;
     background-image: url("/assets/img/sidebar_bg.png") !important;
     background-size: cover;
     background-position: center;
@@ -46,12 +45,13 @@ img[src$="/assets/img/barbora.png"] {
   border-radius: 50%;
 }
 
-/* 2x2 grid for galaxy thumbnails on research page */
+/* Row of galaxy thumbnails on research page */
 .galaxy-grid {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  display: flex;
+  flex-wrap: nowrap;
   gap: 0.75rem;
   margin: 1.5rem 0;
+  overflow-x: auto;
 }
 
 .galaxy-grid figure {
@@ -73,7 +73,12 @@ img[src$="/assets/img/barbora.png"] {
 }
 
 /* Sidebar image credit */
-.sidebar::after {
+.sidebar,
+.sidebar-sticky {
+  position: relative;
+}
+
+.sidebar-sticky::after {
   content: "Image credit: TNG Collaboration";
   position: absolute;
   left: 0.85rem;
@@ -82,4 +87,9 @@ img[src$="/assets/img/barbora.png"] {
   color: #ffffff;
   opacity: 0.8;
   pointer-events: none;
+}
+
+/* Make MathJax math use the regular text font */
+mjx-container[jax="CHTML"] {
+  font-family: inherit !important;
 }
