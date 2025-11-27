@@ -92,7 +92,7 @@ theme: jekyll-theme-hydejack
  
 # Sidebar image and theme color of the site.
 # This is the large background behind the sidebar.
-accent_image:          /assets/img/tng100_web.png
+accent_image:          /assets/img/sidebar.png
 accent_color:          rgb(79,177,186)
 
 # Browser tab and app icons (small icons, separate from sidebar + profile photo)
