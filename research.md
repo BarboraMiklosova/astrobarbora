@@ -9,9 +9,10 @@ permalink: /research/
 My current research focuses on how energy from active galactic nuclei (AGN)  
 and large-scale shock structures in the cosmic web shape the evolution of  
 galaxies and their surrounding gas. On this page you can find a short overview
-of my work on [AGN feedback](#agn-feedback) and [shocks in the cosmic web](#shocks).
+of my work on [AGN feedback](#agn-feedback) and
+[shocks in the cosmic web](#shocks-in-the-cosmic-web).
 
-## Probing the radio-mechanical AGN feedback using multi-cavity systems 
+## Probing the radio-mechanical AGN feedback using multi-cavity systems {#agn-feedback}
 #### AGN feedback in hot atmospheres
 
 In an active galactic nucleus (AGN), found in a giant elliptical galaxy (gE), the cen- tral supermassive black hole (SMBH) prevents the surrounding hot gas from cooling. If some gas cools, it can get accreted onto the SMBH’s in the form of radiatively inefficient disc, launching relativistic jets. These jets inject energy into the gas, creat- ing X-ray cavities that heat the atmosphere as they rise. This cycle repeats, forming a self-regulating feedback loop that suppresses radiative cooling and thus also star formation.
@@ -56,6 +57,8 @@ compared to the standard procedure.
 
 ![Resulting jet powers.]({{ "/assets/img/thesis/pjet_vs_distance_d.png" | relative_url }})
 
+Resulting jet powers.
+{:.figcaption}
 
 
 #### Toy model
@@ -68,11 +71,17 @@ we calculated the projected distance and cavity length, latter being a function 
 
 ![Relative jet power change as a function of cavity's elongation τ. Left panel shows a cavity expanding mildly supersonically, others show buoyant cavities.]({{ "/assets/img/thesis/relative_pjet_change.png" | relative_url }})
 
+Relative jet power change as a function of cavity's elongation τ. Left panel shows a cavity expanding mildly supersonically, others show buoyant cavities.
+{:.figcaption}
+
 For systems showing an increasing jet power trend trend, we reversed the process
 and calculated what would be the intrinsic jet power if we assumed that we
 measured the projected jet power at a given inclination angle. 
 
 ![Increasing jet power trend alleviated for NGC 5044 and NGC 4472 when we take inclination into account.]({{ "/assets/img/thesis/inclined_jetpowers.png" | relative_url }})
+
+Increasing jet power trend alleviated for NGC 5044 and NGC 4472 when we take inclination into account.
+{:.figcaption}
 
 
 ### Key takeaways
