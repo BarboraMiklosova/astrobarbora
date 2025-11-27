@@ -11,6 +11,7 @@ image:
 accent_image: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg
 excerpt_separator: <!--more-->
 sitemap: false
+published: false
 ---
 
 # X Marks the Spot in Hydejack 9.2
@@ -77,4 +78,3 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 On a related note, I've also decided against updating the included Google Analytics script, in part because the upgrade path is incomprehensible, but also due the the same privacy concerns that make Google Fonts a bad default option. I recommend independent analytics services like 
 [Plausible](https://plausible.io), [Matomo](https://matomo.org/) or maybe even [Counterscale](https://counterscale.dev) (if you are a Cloudflare customer).
 You can include the tracking scripts by [adding them as custom HTML](../../docs/basics.md#adding-custom-html-to-the-head).
-
