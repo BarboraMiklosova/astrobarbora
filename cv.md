@@ -11,14 +11,14 @@ permalink: /cv/
 
 - **Master's (Mgr.) in Astrophysics** — Masaryk University, Faculty of Science,  
   Department of Theoretical Physics and Astrophysics, Brno, Czech Republic  
-  *September 2023 – present*  
+  *September 2025 – present*  
   Thesis: *Exploring Shock Structures in the Cosmic Web*  
   Supervisors: Congyao Zhang, PhD; Mgr. Tomáš Plšek  
   Expected graduation in May 2027.
 
 - **Bachelor's (Bc.) in Astrophysics** — Masaryk University, Faculty of Science,  
   Department of Theoretical Physics and Astrophysics, Brno, Czech Republic  
-  *September 2022 – May 2025*  
+  *September 2022 – June 2025*  
   Thesis: *Probing the radio-mechanical AGN feedback using multi-cavity systems*  
   Supervisor: Mgr. Tomáš Plšek  
   Graduated *summa cum laude*.
@@ -38,6 +38,7 @@ permalink: /cv/
 - **Programming:** Python, Bash, LaTeX, Markdown  
 - **Software & tools:** Git/GitHub, Jupyter Notebook, VS Code  
 - **X-ray analysis:** CIAO, XSPEC, DS9  
+- **AI tools**: Codex, OpenAI
 - **Other:** Inkscape, Canva  
 
 ## Languages
@@ -94,3 +95,5 @@ permalink: /cv/
 - Books 
 - Digital art 
 - Photography
+
+Some of my creation can be found in the <a href="{{ "/posts/" | relative_url }}">Posts</a> section.

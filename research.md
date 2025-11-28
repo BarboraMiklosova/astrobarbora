@@ -104,18 +104,7 @@ illustrations). Once the images are exported from the thesis, they can be added
 under `assets/img/research/` and included like this:
 
 
-## Shocks in the cosmic web
+## Exploring Shock Structures in the Cosmic Web
 
-For my master’s thesis, *Exploring Shock Structures in the Cosmic Web* (tentative
-title), I am interested in how large-scale shocks trace the assembly of structure
-in the Universe and how they affect the thermodynamic state of the intergalactic
-medium.
-
-Current directions include:
-
-- Identifying and characterizing shock fronts in simulations of the cosmic web  
-- Connecting shock properties to underlying large-scale structure and accretion  
-- Exploring how shocks redistribute energy and entropy in diffuse gas  
-
-This project is still in progress; over time, I plan to add figures, notes, and
-selected results here as the work develops.
+For my Master’s thesis, I am going to investigate accretion and merger shocks in 
+the state-of-the-art cosmological simulation Illustris-TNG. The project aims to develop a robust pipeline deploying machine-learning algorithms to detect the shock structures. 
