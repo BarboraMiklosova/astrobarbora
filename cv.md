@@ -35,7 +35,7 @@ permalink: /cv/
 ## Skills
 
 - **Programming:** Python, Bash, LaTeX, Markdown  
-- **Software & tools:** Git/GitHub, Jupyter Notebook, VS Code  
+- **Software & tools:** Conda, Git/GitHub, Jupyter Notebook, VS Code  
 - **X-ray analysis:** CIAO, XSPEC, DS9  
 - **AI tools**: Codex, OpenAI
 - **Other:** Inkscape, Canva  
