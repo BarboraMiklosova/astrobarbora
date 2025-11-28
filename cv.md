@@ -5,7 +5,6 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-# Curriculum Vitae
 
 ## Education
 

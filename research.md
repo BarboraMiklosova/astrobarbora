@@ -15,12 +15,17 @@ of my work on [AGN feedback](#agn-feedback) and
 ## Probing the radio-mechanical AGN feedback using multi-cavity systems {#agn-feedback}
 #### AGN feedback in hot atmospheres
 
-In an active galactic nucleus (AGN), found in a giant elliptical galaxy (gE), the cen- tral supermassive black hole (SMBH) prevents the surrounding hot gas from cooling. If some gas cools, it can get accreted onto the SMBH’s in the form of radiatively inefficient disc, launching relativistic jets. These jets inject energy into the gas, creat- ing X-ray cavities that heat the atmosphere as they rise. This cycle repeats, forming a self-regulating feedback loop that suppresses radiative cooling and thus also star formation.
+In an active galactic nucleus (AGN), found in a giant elliptical galaxy (gE), the cen- tral supermassive black hole (SMBH) prevents the surrounding hot gas from cooling. If some gas cools, it can get accreted onto the SMBH’s in the form of radiatively inefficient disc, launching relativistic jets. These jets inject energy into the gas, creating X-ray cavities that heat the atmosphere as they rise. This cycle repeats, forming a self-regulating feedback loop that suppresses radiative cooling and thus also star formation.
+
+![feedback loop]({{ "assets/img/thesis/feedback_loop.png" | relative_url }})
+
+Illustration of feedback loop in an AGN.
+{:.figcaption}
 
 #### X-ray cavities
 X-ray cavities, formed by AGN jets displacing hot gas, appear as regions of **reduced** X-ray emission. From their volumes and the thermodynamic properties of the X-ray–emitting gas, we can derive the jet power that inflated them, which allows us to **quantify the AGN feedback history** if multiple generations are present.
 
-The cavity age $$t_{\text{age}}$$ can be estimated as:
+The cavity age can be estimated as:
 
 - **sound-speed time:** suitable for an attached cavity expanding mildly supersonically (innermost generation)
 
@@ -88,7 +93,7 @@ Increasing jet power trend alleviated for NGC 5044 and NGC 4472 when we take inc
 
 - For aligned systems, the jet power seems to be roughly **constant**.  
 - Inclination always causes the jet powers to be **overestimated**, and it can
-  help explain the increasing $$P_\text{jet}$$ trend in two of the studied
+  help explain the increasing trend in two of the studied
   systems.  
 - Jet powers are affected by inclination more in **oblate** cavities. In
   general, **buoyant** cavities are affected more than cavities expanding
@@ -97,14 +102,9 @@ Increasing jet power trend alleviated for NGC 5044 and NGC 4472 when we take inc
 **Bachelor thesis text**  
 If you are interested in more detail, you can read the full thesis [here](https://is.muni.cz/th/xdxlp/BM_thesis_agn_feedback.pdf).
 
-### Figures from the thesis
-
-I plan to add a few key figures here (e.g. cavity maps, profiles, or toy-model
-illustrations). Once the images are exported from the thesis, they can be added
-under `assets/img/research/` and included like this:
 
 
-## Exploring Shock Structures in the Cosmic Web
+## Exploring Shock Structures in the Cosmic Web {#shocks-in-the-cosmic-web}
 
 For my Master’s thesis, I am going to investigate accretion and merger shocks in 
 the state-of-the-art cosmological simulation Illustris-TNG. The project aims to develop a robust pipeline deploying machine-learning algorithms to detect the shock structures. 
