@@ -1,0 +1,7 @@
+---
+layout: post
+title: A reminder 
+#description: A picture I gave to my parents for Christmas, depecting our family.
+---
+
+![Example header image]({{ "assets/img/blog/reminder.png" | relative_url }})

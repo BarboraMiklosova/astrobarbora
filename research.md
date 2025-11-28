@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Research
-description: >
-  Overview of my current research interests, focusing on AGN feedback and shocks in the cosmic web.
 permalink: /research/
 ---
 
