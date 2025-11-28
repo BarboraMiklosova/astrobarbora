@@ -1,5 +1,5 @@
 ---
 layout: list
-title: Posts
+title: Blog
 grouped: true
 ---

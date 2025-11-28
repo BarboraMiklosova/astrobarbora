@@ -26,9 +26,7 @@ Illustration of feedback loop in an AGN.
 X-ray cavities, formed by AGN jets displacing hot gas, appear as regions of **reduced** X-ray emission. From their volumes and the thermodynamic properties of the X-ray–emitting gas, we can derive the jet power that inflated them, which allows us to **quantify the AGN feedback history** if multiple generations are present.
 
 The cavity age can be estimated as:
-
 - **sound-speed time:** suitable for an attached cavity expanding mildly supersonically (innermost generation)
-
 - **buoyancy time:** suitable for a cavity rising buoyantly (outer generations)
 
 
@@ -99,8 +97,9 @@ Increasing jet power trend alleviated for NGC 5044 and NGC 4472 when we take inc
   general, **buoyant** cavities are affected more than cavities expanding
   supersonically.  
 
-**Bachelor thesis text**  
+
 If you are interested in more detail, you can read the full thesis [here](https://is.muni.cz/th/xdxlp/BM_thesis_agn_feedback.pdf).
+
 
 
 

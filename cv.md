@@ -25,7 +25,10 @@ permalink: /cv/
 
 ## Research experience
 
-- **Probing the radio-mechanical AGN feedback using multi-cavity systems** — bachelor's thesis  
+- **Exploring Shock Structures in the Cosmi Web** - Master's thesis, *in preparation*
+  The goal of this work will be to develop and apply robust shock-finding algorithms to *Illustris-TNG* cosmological simulation. Additionally, we will be able to characterize the physical properties of resulting shock structures and advance the understanding of the formation and evolution of gaseous structures in the large-scale Universe. 
+
+- **Probing the radio-mechanical AGN feedback using multi-cavity systems** — Bachelor's thesis  
   Analyzed archival *Chandra X-ray Observatory* spectroscopic and imaging data of
   giant elliptical galaxies exhibiting multiple generations of X-ray cavities.
   Developed an improved methodology for determining cavity ages and energetics,
