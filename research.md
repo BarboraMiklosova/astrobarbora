@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 My current research focuses on how energy from active galactic nuclei (AGN) and large-scale shock structures in the cosmic web shape the evolution of galaxies and their surrounding gas. On this page you can find a short overview
-of my work on [shocks in the cosmic web](#shocks-in-the-cosmic-web), [X-ray emission of AGNs](#internship), and [AGN feedback](#agn-feedback).
+of my work on [X-ray emission of AGNs](#internship), [shocks in the cosmic web](#shocks-in-the-cosmic-web) and [AGN feedback](#agn-feedback).
 
 
 ## Unveiling X-ray emission of AGNs {#internship}
