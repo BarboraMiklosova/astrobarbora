@@ -110,6 +110,11 @@ apple_touch_icon:      /assets/img/icons/icon-192x192.png
 theme_color:           rgb(25,55,71)
 
 # IMPORTANT:
+
+font: Sora, Helvetica, Arial, sans-serif
+font_heading: IBM Plex Mono, Menlo, Consolas, monospace
+google_fonts: Sora:400,700|IBM+Plex+Mono:700
+
 # As of Hydejack 9.2, Google Fonts are turned off by default due to a stronger focus on privacy.
 # Hydejack will use the default font of your visitor's operating system instead.
 # If you want to match the look of hydejack.com, remove the following line and uncomment 
