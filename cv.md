@@ -29,7 +29,8 @@ permalink: /cv/
   
   The goal of this work will be to develop and apply robust shock-finding algorithms to *Illustris-TNG* cosmological simulation. Additionally, we will be able to characterize the physical properties of resulting shock structures and advance the understanding of the formation and evolution of gaseous structures in the large-scale Universe. 
 
-  - **Unveiling X-ray emission of AGNs** - ESA interniship
+- **Unveiling X-ray emission of AGNs** - ESA interniship
+
   Investigating the X-ray emission from Type 1 AGNs in order to discern the role of absorption as a driver of X-ray weakness. Utilizing archival XMM-Newton observations. Supervised by Matilde Signorini, PhD, and Bert Vander Meulen, PhD. The project led to a submitted joint XMM-Newton & HST proposal to monitor a candidate X-ray weak quasar.
 
 - **Probing the radio-mechanical AGN feedback using multi-cavity systems** — Bachelor's thesis

@@ -4,11 +4,20 @@ title: Research
 permalink: /research/
 ---
 
-My current research focuses on how energy from active galactic nuclei (AGN)  
-and large-scale shock structures in the cosmic web shape the evolution of  
-galaxies and their surrounding gas. On this page you can find a short overview
-of my work on [AGN feedback](#agn-feedback) and
-[shocks in the cosmic web](#shocks-in-the-cosmic-web).
+My current research focuses on how energy from active galactic nuclei (AGN) and large-scale shock structures in the cosmic web shape the evolution of galaxies and their surrounding gas. On this page you can find a short overview
+of my work on [shocks in the cosmic web](#shocks-in-the-cosmic-web), [X-ray emission of AGNs](#internship), and [AGN feedback](#agn-feedback).
+
+
+## Unveiling X-ray emission of AGNs {#internship}
+
+
+
+## Exploring Shock Structures in the Cosmic Web {#shocks-in-the-cosmic-web}
+
+For my Master’s thesis, I am going to investigate accretion and merger shocks in 
+the state-of-the-art cosmological simulation Illustris-TNG. The project aims to develop a robust pipeline deploying machine-learning algorithms to detect the shock structures. 
+
+
 
 ## Probing the radio-mechanical AGN feedback using multi-cavity systems {#agn-feedback}
 #### AGN feedback in hot atmospheres
@@ -101,7 +110,3 @@ If you are interested in more detail, you can read the full thesis [here](https:
 
 
 
-## Exploring Shock Structures in the Cosmic Web {#shocks-in-the-cosmic-web}
-
-For my Master’s thesis, I am going to investigate accretion and merger shocks in 
-the state-of-the-art cosmological simulation Illustris-TNG. The project aims to develop a robust pipeline deploying machine-learning algorithms to detect the shock structures. 
