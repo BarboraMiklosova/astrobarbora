@@ -10,6 +10,8 @@ of my work on [shocks in the cosmic web](#shocks-in-the-cosmic-web), [X-ray emis
 
 ## Unveiling X-ray emission of AGNs {#internship}
 
+During my ESA internship, I investigated the X-ray emission of Type 1 AGNs using archival XMM-Newton observations. You can view my [internship research poster]({{ "/research/internship-poster/" | relative_url }}).
+
 
 
 ## Exploring Shock Structures in the Cosmic Web {#shocks-in-the-cosmic-web}
@@ -106,7 +108,6 @@ Increasing jet power trend alleviated for NGC 5044 and NGC 4472 when we take inc
 
 
 If you are interested in more detail, you can read the full thesis [here](https://is.muni.cz/th/xdxlp/BM_thesis_agn_feedback.pdf).
-
 
 
 
