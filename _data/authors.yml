@@ -4,9 +4,18 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    I am a Master’s student in Astrophysics with passion for high energy astrophysics - especially structure and galaxy formation and evolution interlaced with a bit of cosmology.
-    I greatly enjoy making my research accessible and easy-to-understand for everyone. Most likely, you will find me with a cup of coffee yapping about the work or reading a book. 
+  about:    
+    I am a Master’s student in Astrophysics working at the intersection of large-scale structures of the Universe and active galactic nuclei. 
+    My research so far has focused on understanding how different physical processes shape the evolution of cosmic structures, including AGN feedback on galactic scales, accretion on cluster halos, or inner-most workings of AGNs.
+    One of my goals is to understand the effect each systematic has on the evolution of structures: AGN feedback, accretion onto halos, the 
+    position of the system within its environment. I will be forever fascinated by how we, tiny humans on Earth, can explore the vastness and the scale and the beauty of Universe. 
+
+    I am strong advocate for making research accessible and easy-to-undersand for everyone. To that end, I take part in public outreach, help students navigate academic life and speak openly about my own challenges along the way. 
+    
+    I am endlessly fascinated by our ability to explore the Universe's beauty from our small vantage point. My hope is that Universe's vastness teaches us humility and never-ending curiousity.
+
+    Outside of research, you will most likely find me with a cup of coffee, reading a book, or illustrating. 
+    
 
   # This photo will be used in the about section
   picture:
