@@ -9,17 +9,19 @@ of my work on [shocks in the cosmic web](#shocks-in-the-cosmic-web), [X-ray emis
 
 
 ## Unveiling X-ray emission of AGNs {#internship}
-During my ESA internship, I investigated the X-ray emission of Type 1 AGNs using archival XMM-Newton observations. The question at the core of the project was whether the X-ray absorption is the primary driver of observed X-ray weakness of some AGNs. X-ray weak AGNs have observed luminosities much lower than what is predicted from the $$L_\text{X}-L_\tex{UV}$$ relation. They also exhibit flatter X-ray spectra, and weaker, more blue-shifted C IV emission. 
+During my ESA internship, I investigated the X-ray emission of Type 1 AGNs using archival XMM-Newton observations. The question at the core of the project was whether the X-ray absorption is the primary driver of observed X-ray weakness of some AGNs. X-ray weak AGNs have observed luminosities much lower than what is predicted from the $$L_\text{X}-L_\text{UV}$$ relation. They also exhibit flatter X-ray spectra, and weaker, more blue-shifted C IV emission. 
 
 When considering only the photometry of X-ray weak AGNs, due to the degeneracy between hydrogen absorbing column and photon index absorption can mimic flat spectra. However, in detailed spectral modelling, we were able to show that the spectra of X-ray weak objects are naturally flat. Adding absorption component didn't improve fit statistics, making the absorption less likely to be the primary driver of their weakness. Additionaly, it seems that X-ray weakness can be only a transient state.
 
 
-![Spectroscopically derived weakness parameter and photon index from every used archival observation Observations for the same object are denoted by the same marker and color. There are no objects in the upper right quadrant, i.e. AGNs with steep X-ray spectrum that are also X-ray weak. Based on the construction of our sample, we would expect at least 10 points in that sector.]({{ "/assets/img/weakness_gammax_web.png" | relative_url }})
+![spectroscopic quantities]({{ "/assets/img/weakness_gammax_web.png" | relative_url }})
 
+Spectroscopically derived weakness parameter and photon index from every used archival observation Observations for the same object are denoted by the same marker and color. There are no objects in the upper right quadrant, i.e. AGNs with steep X-ray spectrum that are also X-ray weak. Based on the construction of our sample, we would expect at least 10 points in that sector.
+{:.figcaption}
 
 This project lead to a submitted joint XMM-Newton + HST proposal of a quasar, whose X-ray weakness seems to be changing. Its C IV line properties were never measured before, which made it a good candidate to cross-test possible explanations of X-ray weakness: either X-ray absorption, or presence of accretion disc wind. 
 
-You can view my [internship research poster]({{ "/research/internship-poster/" | relative_url }}).
+For more information, you can view my [internship research poster]({{ "/research/internship-poster/" | relative_url }}).
 
 
 
