@@ -25,10 +25,15 @@ permalink: /cv/
 
 ## Research experience
 
-- **Exploring Shock Structures in the Cosmi Web** - Master's thesis, *in preparation*
+- **Exploring Shock Structures in the Cosmic Web** - Master's thesis, *in preparation*
+  
   The goal of this work will be to develop and apply robust shock-finding algorithms to *Illustris-TNG* cosmological simulation. Additionally, we will be able to characterize the physical properties of resulting shock structures and advance the understanding of the formation and evolution of gaseous structures in the large-scale Universe. 
 
-- **Probing the radio-mechanical AGN feedback using multi-cavity systems** — Bachelor's thesis  
+  - **Unveiling X-ray emission of AGNs** - ESA interniship
+  Investigating the X-ray emission from Type 1 AGNs in order to discern the role of absorption as a driver of X-ray weakness. Utilizing archival XMM-Newton observations. Supervised by Matilde Signorini, PhD, and Bert Vander Meulen, PhD. The project led to a submitted joint XMM-Newton & HST proposal to monitor a candidate X-ray weak quasar.
+
+- **Probing the radio-mechanical AGN feedback using multi-cavity systems** — Bachelor's thesis
+
   Analyzed archival *Chandra X-ray Observatory* spectroscopic and imaging data of
   giant elliptical galaxies exhibiting multiple generations of X-ray cavities.
   Developed an improved methodology for determining cavity ages and energetics,
@@ -37,23 +42,25 @@ permalink: /cv/
 
 ## Skills
 
-- **Programming:** Python, Bash, LaTeX, Markdown  
-- **Software & tools:** Conda, Git/GitHub, Jupyter Notebook, VS Code  
-- **X-ray analysis:** CIAO, XSPEC, DS9  
-- **AI tools**: Codex, OpenAI
-- **Other:** Inkscape, Canva  
+- **Programming:** Python (numpy, scipy, astropy, scikit-learn, matplotlib, ...), Bash, LaTeX, Markdown  
+- **Software & tools:** Conda, Git/GitHub, Jupyter Notebook, VS Code , TOPCAT, Obsidian
+- **X-ray analysis:** CIAO, XSPEC, DS9, SAS  
+- **AI tools**: Codex, OpenAI, Claude
+- **Graphic:** Inkscape, Canva, Procreate
 
 ## Languages
 
 - **Slovak:** native, **English:** advanced, **Czech:** fluent, **Spanish:** beginner  
 
 ## Outreach
+- **Axis Mundi — Organizing Team** (*April 2026 – present*)  
+  Co-organizing public talks taking place accross various pubs, inspired by Astronomy on Tap. Responsible for design, advertising and planning of talks. 
 
 - **Students Physics Seminar — Organizing Team** (*March 2024 – present*)  
   Co-organizing weekend seminars for physics students showcasing research at the
   Departments of Physics. Responsible for program planning, inviting speakers
   (including graduates working in academia and industry), and supporting
-  networking activities.
+  networking activities. Presenting on research experience abroad, study-life balance and academic life.
 
 - **Public Engagement & Astronomy Outreach** (*September 2023 – present*)  
   Involved in planning and executing public science events, including the Czech
